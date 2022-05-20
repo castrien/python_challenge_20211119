@@ -6,3 +6,6 @@ Instruções:
 1 - Fazer download(clone) do projeto
 2 - Instancie uma venv
 3 - Abra ou execute o arquivo python_challenge_20211119.ipynb
+
+Link da apresentação:
+https://www.loom.com/embed/b271587bc975434da695e34c62ca477f
